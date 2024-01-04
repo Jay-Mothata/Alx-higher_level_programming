@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-import sys
 if __name__ == "__main__":
+    import sys
 
 	argv_count = len(sys.argv) - 1  # Subtract 1 for the script name
 
